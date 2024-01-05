@@ -7,12 +7,13 @@ Welcome to the Raspberry Pi interfacing project with MATLAB and Simulink! This r
   - [Requirements](#requirements)
   - [Setup](#setup)
 - [Sensor Data Acquisation](#sensor-data-acquisation)
+  - [Working With MPU6050](#working-with-mpu6050)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - 
 ## Introduction
 
-The primary goal of this project is to provide a comprehensive guide and codebase for interfacing Raspberry Pi with different sensors and exploring a wide range of applications. I will cover topics such as sensor data acquisition, control algorithms, IoT connectivity, and artificial intelligence. Throughout the project, we will experiment with different Raspberry Pi versions to ensure compatibility and scalability. FYI, this repository provides links to the other project repositories working with RPI and Matlab/Simulink
+The primary goal of this project is to provide a comprehensive guide and codebase for interfacing Raspberry Pi with different sensors and exploring a wide range of applications. I will cover topics such as sensor data acquisition, control algorithms, IoT connectivity, and artificial intelligence. Throughout the project, we will experiment with different Raspberry Pi versions to ensure compatibility and scalability. This repository can be used as a starting point to interface Raspberry Pi with matlab/simulink ,and moreover, provides accessiblity to the other project repositories working with RPI and Matlab/Simulink.
 
 ## Getting Started
 
@@ -32,4 +33,4 @@ The primary goal of this project is to provide a comprehensive guide and codebas
    git clone [https://github.com/SamsonAdem/RPI02W_Matlab.git]
 
 ## Sensor Data Acquisation
-  ## Working With MPU6050   
+  ### Working With MPU6050   
