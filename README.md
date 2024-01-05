@@ -34,5 +34,5 @@ The primary goal of this project is to provide a comprehensive guide and codebas
 
 ## Sensor Data Acquisation
   ### Working With MPU6050   
-  Connect your rpi with mpu6050 via I2C pins and open the matlab live script file in MPU_TEST folder or click the matlab online link below. 
+  Connect your rpi with mpu6050 via I2C pins and open the matlab live script file in MPU_TEST folder or click the matlab online link. 
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SamsonAdem/RPI02W_Matlab&file=https://github.com/SamsonAdem/RPI02W_Matlab/tree/main/MPU_TEST)
